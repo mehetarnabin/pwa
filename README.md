@@ -89,3 +89,8 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
+
+You can check it out:
+https://food-recipe-6293e.web.app/
+or
+https://food-recipe-6293e.firebaseapp.com/
